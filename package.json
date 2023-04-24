@@ -1,0 +1,25 @@
+{
+  "name": "linkpe",
+  "version": "1.0.0",
+  "description": "will describe later",
+  "main": "index.html",
+  "scripts": {
+    "start": "node server.js 8081"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Someshmore123/LinkPe.git"
+  },
+  "keywords": [
+    "later"
+  ],
+  "author": "Somesh More",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Someshmore123/LinkPe/issues"
+  },
+  "homepage": "https://github.com/Someshmore123/LinkPe#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
